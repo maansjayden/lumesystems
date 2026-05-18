@@ -1,0 +1,8 @@
+{
+  "name": "Lume Systems",
+  "description": "Premium corporate landing page for Lume Systems engineering firm.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
